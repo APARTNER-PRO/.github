@@ -2,5 +2,11 @@
 <!--<li>Twitter: <a target="_new" href="https://twitter.com/APartnerPro">@APartnerPro</a></li>-->
 <li>Site: <a target="_new" href="https://apartner.pro">APartner.pro</a></li>
 <li>LinkedIn: <a target="_new" href="https://www.linkedin.com/company/apartner">APartner.pro</a></li>
-<!--<li>Instagram: <a target="_new" href="https://www.instagram.com/apartner/">@apartnerpro</a></li></ul>-->
+<!--<li>Instagram: <a target="_new" href="https://www.instagram.com/apartner/">@apartnerpro</a></li>-->
+</ul>
+
+<h3>Contact Us 📧</h3>
+<p>Have questions or need assistance? Reach out to us:</p>
+<ul><li>Email: <a target="_new" href="mailto:info@apartner.pro">info@apartner.pro</a></li><li>Phone: [+380 (93) 88-00-822]</li></ul>
+
 <p>Thank you for choosing APartner.pro. Let's create something amazing together! 🚀</p></div>
